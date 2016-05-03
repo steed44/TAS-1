@@ -1,0 +1,23 @@
+# ignore all
+/*
+
+# do not ignore .gitignore
+!.gitignore
+
+# do not ignore README.md
+!README.md
+
+# do not ignore all files in the src/ directory
+!src/
+
+# do not ignore all .jsp files in the WebContent/ directory
+# !*.jsp
+
+# do not ignore all .txt files in the WebContent/ directory
+# !*.txt
+
+!WebContent/
+
+WebContent/WEB-INF/lib
+
+WebContent/WEB-INF/classes
